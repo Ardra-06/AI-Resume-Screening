@@ -45,7 +45,7 @@ A Python tool that ranks PDF resumes against a job description using **TF-IDF ve
 ## Project Structure
 
 ```
-resume-screening/
+AI-Resume-Screening/
 ├── resume_screening.py          # main script
 ├── requirements.txt
 ├── sample_job_description.txt   # sample job description
@@ -86,7 +86,7 @@ python resume_screening.py --resumes resumes_sample --jd sample_job_description.
 3. Run with defaults:
 
 ```bash
-python resume_screening.py
+python AI-Resume_Screening.py
 ```
 
 | Option | Default | Description |
