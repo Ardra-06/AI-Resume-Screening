@@ -1,0 +1,28 @@
+# virtual environment
+resume_env/
+venv/
+.venv/
+
+# real candidate data (never commit)
+resumes/
+job_description.txt
+
+# secrets
+.env
+*.key
+
+# python
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+
+# models / large files
+*.pkl
+*.joblib
+*.h5
+*.pt
+
+# os / editor
+.DS_Store
+Thumbs.db
+.vscode/
