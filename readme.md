@@ -62,7 +62,7 @@ Your own `resumes/` folder and `job_description.txt` are listed in `.gitignore`,
 ## Installation
 
 ```bash
-git clone https://github.com/Ardra-06/resume-screening.git
+git clone https://github.com/Ardra-06/AI-Resume-Screening.git
 cd AI-Resume-Screening
 
 python -m venv venv
